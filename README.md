@@ -30,8 +30,6 @@ This project demonstrates communication between multiple clients and a central s
 4. Start the server using `python server.py`.
 5. Open another terminal and start a client using `python client.py`.
 
-*Note: Replace the filenames above if your actual Python files use different names.*
-
 ## Project Type
 
 University Group Project — Wilfrid Laurier University
